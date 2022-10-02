@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @white-cc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in OLAP database
+- 🌱 I’m currently learning clickhouse
+- 📫 How to reach me 867214831@qq.com
 
-<!---
-white-cc/white-cc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
